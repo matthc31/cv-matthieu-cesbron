@@ -1,0 +1,65 @@
+
+
+body{
+	background-color:#566270 ;
+
+}
+
+div{
+	color:white;
+}
+h1{
+	font-size: 50px;
+	text-align: center;
+	text-shadow: 2px 2px 2px #D9D4CF;
+	margin: 0;
+	color-interpolation-filters: blue;
+	border-style: double;
+	border-color: #333030;
+}
+
+h2{
+	text-align: center;
+	font-size: 30px;
+	text-shadow: 2px 2px 2px #D9D4CF;
+	margin: 0;
+	color-interpolation-filters: blue;
+	border-style: double;
+	border-color: #333030;
+}
+
+li{
+	color: white;
+	text-align: left;
+
+}
+
+h3{
+	font-style: italic;
+	text-decoration: underline;
+	color: white;
+
+}
+
+ul{
+	list-style: none;
+}
+.prothese{
+	display: flex;
+	justify-content: left;
+
+}
+.simplon{
+	display: flex;
+	justify-content: right;
+
+}
+
+.photo{
+	display: flex;
+	justify-content: right;
+
+}
+
+
+
