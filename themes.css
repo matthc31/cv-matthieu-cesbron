@@ -1,0 +1,52 @@
+
+
+body{
+	background-color:#566270 ;
+
+}
+
+div{
+	color:white;
+}
+h1{
+	font-size: 50px;
+	text-align: center;
+	text-shadow: 2px 2px 2px #D9D4CF;
+	margin: 0;
+	color-interpolation-filters: blue;
+	border-style: double;
+	border-color: #333030;
+}
+
+li{
+	color: white;
+	text-align: center;
+	font-size: medium;
+
+}
+
+h3{
+	text-decoration: underline;
+	color: white;
+	text-align: center;
+
+}
+
+ul{
+	list-style: none;
+}
+
+.photo{
+	margin-left: 1250px;
+
+}
+
+.addresse{
+position: relative;
+text-align: left;
+}
+p{
+	text-decoration: inherit;
+}
+
+
